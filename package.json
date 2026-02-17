@@ -1,0 +1,12 @@
+{
+  "name": "space.kulibin.platform",
+  "version": "1.0.0",
+  "displayName": "Kulibin Platform",
+  "description": "This is a Platform layer abstraction",
+  "author": {
+    "name": "Kulibin.Space",
+    "email": "akareactor@mail.ru",
+    "url": "https://www.kulibin.space"
+  }
+  
+}
