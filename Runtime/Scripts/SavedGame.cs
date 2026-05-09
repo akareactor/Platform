@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace KulibinSpace.Platform {
 
-    public abstract class SavedGame : MonoBehaviour {
+    public abstract class SavedGame {
     }
 
 }
